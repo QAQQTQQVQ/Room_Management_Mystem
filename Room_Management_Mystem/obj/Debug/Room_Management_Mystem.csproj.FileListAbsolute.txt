@@ -1,0 +1,16 @@
+C:\Users\FYZY\source\repos\Room_Management_Mystem\Room_Management_Mystem\bin\Debug\Room_Management_Mystem.exe.config
+C:\Users\FYZY\source\repos\Room_Management_Mystem\Room_Management_Mystem\bin\Debug\Room_Management_Mystem.exe
+C:\Users\FYZY\source\repos\Room_Management_Mystem\Room_Management_Mystem\bin\Debug\Room_Management_Mystem.pdb
+C:\Users\FYZY\source\repos\Room_Management_Mystem\Room_Management_Mystem\obj\Debug\Room_Management_Mystem.csprojAssemblyReference.cache
+C:\Users\FYZY\source\repos\Room_Management_Mystem\Room_Management_Mystem\obj\Debug\Room_Management_Mystem.Properties.Resources.resources
+C:\Users\FYZY\source\repos\Room_Management_Mystem\Room_Management_Mystem\obj\Debug\Room_Management_Mystem.csproj.GenerateResource.cache
+C:\Users\FYZY\source\repos\Room_Management_Mystem\Room_Management_Mystem\obj\Debug\Room_Management_Mystem.exe
+C:\Users\FYZY\source\repos\Room_Management_Mystem\Room_Management_Mystem\obj\Debug\Room_Management_Mystem.pdb
+C:\Users\FYZY\source\repos\Room_Management_Mystem\Room_Management_Mystem\obj\Debug\Room_Management_Mystem.Login.resources
+C:\Users\FYZY\source\repos\Room_Management_Mystem\Room_Management_Mystem\obj\Debug\Room_Management_Mystem.Function.resources
+C:\Users\FYZY\source\repos\Room_Management_Mystem\Room_Management_Mystem\obj\Debug\Room_Management_Mystem.Main_interface.resources
+C:\Users\FYZY\source\repos\Room_Management_Mystem\Room_Management_Mystem\obj\Debug\Room_Management_Mystem.Update.resources
+C:\Users\FYZY\source\repos\Room_Management_Mystem\Room_Management_Mystem\obj\Debug\Room_Management_Mystem.Add.resources
+C:\Users\FYZY\source\repos\Room_Management_Mystem\Room_Management_Mystem\obj\Debug\Room_Management_Mystem.Feedback.resources
+C:\Users\FYZY\source\repos\Room_Management_Mystem\Room_Management_Mystem\obj\Debug\Room_Management_Mystem.Update_login.resources
+C:\Users\FYZY\source\repos\Room_Management_Mystem\Room_Management_Mystem\obj\Debug\Room_Management_Mystem.start.resources
